@@ -1,0 +1,8 @@
+prefix=/root/ari_public_catkin_ws/devel/.private/ari_2dnav
+
+Name: ari_2dnav
+Description: Description of ari_2dnav
+Version: 0.0.33
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

@@ -1,0 +1,1 @@
+/root/ari_public_catkin_ws/devel/.private/forward_command_controller/lib/pkgconfig/forward_command_controller.pc

@@ -1,0 +1,6 @@
+backward_ros
+/root/ari_public_catkin_ws/devel/.private/backward_ros/cmake.lock /root/ari_public_catkin_ws/devel/./cmake.lock
+/root/ari_public_catkin_ws/devel/.private/backward_ros/lib/libbackward.so /root/ari_public_catkin_ws/devel/lib/libbackward.so
+/root/ari_public_catkin_ws/devel/.private/backward_ros/lib/pkgconfig/backward_ros.pc /root/ari_public_catkin_ws/devel/lib/pkgconfig/backward_ros.pc
+/root/ari_public_catkin_ws/devel/.private/backward_ros/share/backward_ros/cmake/backward_rosConfig-version.cmake /root/ari_public_catkin_ws/devel/share/backward_ros/cmake/backward_rosConfig-version.cmake
+/root/ari_public_catkin_ws/devel/.private/backward_ros/share/backward_ros/cmake/backward_rosConfig.cmake /root/ari_public_catkin_ws/devel/share/backward_ros/cmake/backward_rosConfig.cmake

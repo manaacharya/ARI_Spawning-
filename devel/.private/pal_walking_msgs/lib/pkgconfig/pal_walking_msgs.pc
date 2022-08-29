@@ -1,0 +1,8 @@
+prefix=/root/ari_public_catkin_ws/devel/.private/pal_walking_msgs
+
+Name: pal_walking_msgs
+Description: Description of pal_walking_msgs
+Version: 0.13.9
+Cflags: -I/root/ari_public_catkin_ws/devel/.private/pal_walking_msgs/include
+Libs: -L${prefix}/lib 
+Requires: geometry_msgs humanoid_nav_msgs message_runtime

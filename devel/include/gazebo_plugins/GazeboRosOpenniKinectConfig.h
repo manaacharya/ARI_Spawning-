@@ -1,0 +1,1 @@
+/root/ari_public_catkin_ws/devel/.private/gazebo_plugins/include/gazebo_plugins/GazeboRosOpenniKinectConfig.h

@@ -1,0 +1,1 @@
+/root/ari_public_catkin_ws/devel/.private/ari_aruco_demo/lib/pkgconfig/ari_aruco_demo.pc

@@ -1,0 +1,1 @@
+/root/ari_public_catkin_ws/devel/.private/ari_moveit_config/share/ari_moveit_config/cmake/ari_moveit_configConfig.cmake

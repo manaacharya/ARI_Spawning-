@@ -1,0 +1,1 @@
+/root/ari_public_catkin_ws/devel/.private/hey5_description/share/hey5_description/cmake/hey5_descriptionConfig.cmake

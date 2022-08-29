@@ -1,0 +1,8 @@
+[35m[1mScanning dependencies of target barcode_reader_nodelet[0m
+[ 25%] [32mBuilding CXX object CMakeFiles/barcode_reader_nodelet.dir/src/barcode_reader_nodelet.cpp.o[0m
+[ 50%] [32m[1mLinking CXX shared library /root/ari_public_catkin_ws/devel/.private/zbar_ros/lib/libbarcode_reader_nodelet.so[0m
+[ 50%] Built target barcode_reader_nodelet
+[35m[1mScanning dependencies of target barcode_reader_node[0m
+[ 75%] [32mBuilding CXX object CMakeFiles/barcode_reader_node.dir/src/barcode_reader_node.cpp.o[0m
+[100%] [32m[1mLinking CXX executable /root/ari_public_catkin_ws/devel/.private/zbar_ros/lib/zbar_ros/barcode_reader_node[0m
+[100%] Built target barcode_reader_node

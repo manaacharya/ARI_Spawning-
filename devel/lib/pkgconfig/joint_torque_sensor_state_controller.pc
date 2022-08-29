@@ -1,0 +1,1 @@
+/root/ari_public_catkin_ws/devel/.private/joint_torque_sensor_state_controller/lib/pkgconfig/joint_torque_sensor_state_controller.pc

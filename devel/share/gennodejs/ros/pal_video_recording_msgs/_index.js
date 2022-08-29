@@ -1,0 +1,1 @@
+/root/ari_public_catkin_ws/devel/.private/pal_video_recording_msgs/share/gennodejs/ros/pal_video_recording_msgs/_index.js

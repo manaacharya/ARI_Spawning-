@@ -1,0 +1,1 @@
+/root/ari_public_catkin_ws/devel/.private/zbar_ros/lib/pkgconfig/zbar_ros.pc

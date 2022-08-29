@@ -1,0 +1,8 @@
+prefix=/root/ari_public_catkin_ws/devel/.private/realsense2_description
+
+Name: realsense2_description
+Description: Description of realsense2_description
+Version: 1003.2.3
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

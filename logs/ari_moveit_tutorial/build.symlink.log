@@ -1,0 +1,5 @@
+Symlinking /root/ari_public_catkin_ws/devel/lib/ari_moveit_tutorial/plan_left_arm_fk
+Symlinking /root/ari_public_catkin_ws/devel/lib/ari_moveit_tutorial/plan_left_arm_ik
+Symlinking /root/ari_public_catkin_ws/devel/lib/pkgconfig/ari_moveit_tutorial.pc
+Symlinking /root/ari_public_catkin_ws/devel/share/ari_moveit_tutorial/cmake/ari_moveit_tutorialConfig.cmake
+Symlinking /root/ari_public_catkin_ws/devel/share/ari_moveit_tutorial/cmake/ari_moveit_tutorialConfig-version.cmake

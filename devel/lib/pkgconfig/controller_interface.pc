@@ -1,0 +1,1 @@
+/root/ari_public_catkin_ws/devel/.private/controller_interface/lib/pkgconfig/controller_interface.pc

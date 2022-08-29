@@ -1,0 +1,34 @@
+[01m[K/root/ari_public_catkin_ws/src/pointcloud_to_laserscan/src/pointcloud_to_laserscan_nodelet.cpp:[m[K In member function ‘[01m[Kvoid pointcloud_to_laserscan::PointCloudToLaserScanNodelet::cloudCb(const PointCloud2ConstPtr&)[m[K’:
+[01m[K/root/ari_public_catkin_ws/src/pointcloud_to_laserscan/src/pointcloud_to_laserscan_nodelet.cpp:247:18:[m[K [01;35m[Kwarning: [m[Kcomparison between signed and unsigned integer expressions [[01;35m[K-Wsign-compare[m[K]
+   for(int i = 0;[01;35m[Ki<output.ranges.size()[m[K;i++)
+                 [01;35m[K~^~~~~~~~~~~~~~~~~~~~~[m[K
+In file included from [01m[K/root/ari_public_catkin_ws/src/pointcloud_to_laserscan/include/pointcloud_to_laserscan/pointcloud_to_laserscan_nodelet.h:51:0[m[K,
+                 from [01m[K/root/ari_public_catkin_ws/src/pointcloud_to_laserscan/src/pointcloud_to_laserscan_nodelet.cpp:43[m[K:
+/opt/ros/melodic/include/tf2_ros/message_filter.h: In instantiation of ‘[01m[Kvoid tf2_ros::MessageFilter<M>::transformable(tf2::TransformableRequestHandle, const string&, const string&, ros::Time, tf2::TransformableResult) [with M = sensor_msgs::PointCloud2_<std::allocator<void> >; tf2::TransformableRequestHandle = long unsigned int; std::__cxx11::string = std::__cxx11::basic_string<char>][m[K’:
+[01m[K/opt/ros/melodic/include/tf2_ros/message_filter.h:452:65:[m[K   required from ‘[01m[Kvoid tf2_ros::MessageFilter<M>::init() [with M = sensor_msgs::PointCloud2_<std::allocator<void> >][m[K’
+[01m[K/opt/ros/melodic/include/tf2_ros/message_filter.h:151:9:[m[K   required from ‘[01m[Ktf2_ros::MessageFilter<M>::MessageFilter(F&, tf2::BufferCore&, const string&, uint32_t, const ros::NodeHandle&) [with F = message_filters::Subscriber<sensor_msgs::PointCloud2_<std::allocator<void> > >; M = sensor_msgs::PointCloud2_<std::allocator<void> >; std::__cxx11::string = std::__cxx11::basic_string<char>; uint32_t = unsigned int][m[K’
+[01m[K/root/ari_public_catkin_ws/src/pointcloud_to_laserscan/src/pointcloud_to_laserscan_nodelet.cpp:107:95:[m[K   required from here
+[01m[K/opt/ros/melodic/include/tf2_ros/message_filter.h:455:89:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Ktarget_frame[m[K’ [[01;35m[K-Wunused-parameter[m[K]
+   void transformable(tf2::TransformableRequestHandle request_handle, const std::string& [01;35m[Ktarget_frame[m[K, const std::string& source_frame,
+                                                                                         [01;35m[K^~~~~~~~~~~~[m[K
+[01m[K/opt/ros/melodic/include/tf2_ros/message_filter.h:455:122:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Ksource_frame[m[K’ [[01;35m[K-Wunused-parameter[m[K]
+   void transformable(tf2::TransformableRequestHandle request_handle, const std::string& target_frame, const std::string& [01;35m[Ksource_frame[m[K,
+                                                                                                                          [01;35m[K^~~~~~~~~~~~[m[K
+[01m[K/opt/ros/melodic/include/tf2_ros/message_filter.h:456:32:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Ktime[m[K’ [[01;35m[K-Wunused-parameter[m[K]
+                      ros::Time [01;35m[Ktime[m[K, tf2::TransformableResult result)
+                                [01;35m[K^~~~[m[K
+In file included from [01m[K/root/ari_public_catkin_ws/src/pointcloud_to_laserscan/include/pointcloud_to_laserscan/laserscan_to_pointcloud_nodelet.h:52:0[m[K,
+                 from [01m[K/root/ari_public_catkin_ws/src/pointcloud_to_laserscan/src/laserscan_to_pointcloud_nodelet.cpp:41[m[K:
+/opt/ros/melodic/include/tf2_ros/message_filter.h: In instantiation of ‘[01m[Kvoid tf2_ros::MessageFilter<M>::transformable(tf2::TransformableRequestHandle, const string&, const string&, ros::Time, tf2::TransformableResult) [with M = sensor_msgs::LaserScan_<std::allocator<void> >; tf2::TransformableRequestHandle = long unsigned int; std::__cxx11::string = std::__cxx11::basic_string<char>][m[K’:
+[01m[K/opt/ros/melodic/include/tf2_ros/message_filter.h:452:65:[m[K   required from ‘[01m[Kvoid tf2_ros::MessageFilter<M>::init() [with M = sensor_msgs::LaserScan_<std::allocator<void> >][m[K’
+[01m[K/opt/ros/melodic/include/tf2_ros/message_filter.h:151:9:[m[K   required from ‘[01m[Ktf2_ros::MessageFilter<M>::MessageFilter(F&, tf2::BufferCore&, const string&, uint32_t, const ros::NodeHandle&) [with F = message_filters::Subscriber<sensor_msgs::LaserScan_<std::allocator<void> > >; M = sensor_msgs::LaserScan_<std::allocator<void> >; std::__cxx11::string = std::__cxx11::basic_string<char>; uint32_t = unsigned int][m[K’
+[01m[K/root/ari_public_catkin_ws/src/pointcloud_to_laserscan/src/laserscan_to_pointcloud_nodelet.cpp:89:95:[m[K   required from here
+[01m[K/opt/ros/melodic/include/tf2_ros/message_filter.h:455:89:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Ktarget_frame[m[K’ [[01;35m[K-Wunused-parameter[m[K]
+   void transformable(tf2::TransformableRequestHandle request_handle, const std::string& [01;35m[Ktarget_frame[m[K, const std::string& source_frame,
+                                                                                         [01;35m[K^~~~~~~~~~~~[m[K
+[01m[K/opt/ros/melodic/include/tf2_ros/message_filter.h:455:122:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Ksource_frame[m[K’ [[01;35m[K-Wunused-parameter[m[K]
+   void transformable(tf2::TransformableRequestHandle request_handle, const std::string& target_frame, const std::string& [01;35m[Ksource_frame[m[K,
+                                                                                                                          [01;35m[K^~~~~~~~~~~~[m[K
+[01m[K/opt/ros/melodic/include/tf2_ros/message_filter.h:456:32:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Ktime[m[K’ [[01;35m[K-Wunused-parameter[m[K]
+                      ros::Time [01;35m[Ktime[m[K, tf2::TransformableResult result)
+                                [01;35m[K^~~~[m[K

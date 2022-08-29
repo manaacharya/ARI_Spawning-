@@ -1,0 +1,3 @@
+Symlinking /root/ari_public_catkin_ws/devel/lib/pkgconfig/ari_description.pc
+Symlinking /root/ari_public_catkin_ws/devel/share/ari_description/cmake/ari_descriptionConfig.cmake
+Symlinking /root/ari_public_catkin_ws/devel/share/ari_description/cmake/ari_descriptionConfig-version.cmake

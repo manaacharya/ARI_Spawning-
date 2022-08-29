@@ -1,0 +1,11 @@
+Symlinking /root/ari_public_catkin_ws/devel/include/eband_local_planner/EBandPlannerConfig.h
+Symlinking /root/ari_public_catkin_ws/devel/lib/libeband_local_planner.so
+Symlinking /root/ari_public_catkin_ws/devel/lib/pkgconfig/eband_local_planner.pc
+Symlinking /root/ari_public_catkin_ws/devel/lib/python2.7/dist-packages/eband_local_planner/__init__.py
+Symlinking /root/ari_public_catkin_ws/devel/lib/python2.7/dist-packages/eband_local_planner/cfg/__init__.py
+Symlinking /root/ari_public_catkin_ws/devel/lib/python2.7/dist-packages/eband_local_planner/cfg/EBandPlannerConfig.py
+Symlinking /root/ari_public_catkin_ws/devel/share/eband_local_planner/cmake/eband_local_plannerConfig-version.cmake
+Symlinking /root/ari_public_catkin_ws/devel/share/eband_local_planner/cmake/eband_local_plannerConfig.cmake
+Symlinking /root/ari_public_catkin_ws/devel/share/eband_local_planner/docs/EBandPlannerConfig-usage.dox
+Symlinking /root/ari_public_catkin_ws/devel/share/eband_local_planner/docs/EBandPlannerConfig.dox
+Symlinking /root/ari_public_catkin_ws/devel/share/eband_local_planner/docs/EBandPlannerConfig.wikidoc

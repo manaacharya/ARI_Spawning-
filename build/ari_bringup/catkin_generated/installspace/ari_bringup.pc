@@ -1,0 +1,8 @@
+prefix=/root/ari_public_catkin_ws/install
+
+Name: ari_bringup
+Description: Description of ari_bringup
+Version: 0.0.42
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

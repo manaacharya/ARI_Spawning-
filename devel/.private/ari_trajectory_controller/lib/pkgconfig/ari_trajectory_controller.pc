@@ -1,0 +1,8 @@
+prefix=/root/ari_public_catkin_ws/devel/.private/ari_trajectory_controller
+
+Name: ari_trajectory_controller
+Description: Description of ari_trajectory_controller
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

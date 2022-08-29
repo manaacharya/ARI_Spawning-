@@ -1,0 +1,6 @@
+ari_tutorials/ari_trajectory_controller
+/root/ari_public_catkin_ws/devel/.private/ari_trajectory_controller/cmake.lock /root/ari_public_catkin_ws/devel/./cmake.lock
+/root/ari_public_catkin_ws/devel/.private/ari_trajectory_controller/lib/ari_trajectory_controller/run_traj_control /root/ari_public_catkin_ws/devel/lib/ari_trajectory_controller/run_traj_control
+/root/ari_public_catkin_ws/devel/.private/ari_trajectory_controller/lib/pkgconfig/ari_trajectory_controller.pc /root/ari_public_catkin_ws/devel/lib/pkgconfig/ari_trajectory_controller.pc
+/root/ari_public_catkin_ws/devel/.private/ari_trajectory_controller/share/ari_trajectory_controller/cmake/ari_trajectory_controllerConfig-version.cmake /root/ari_public_catkin_ws/devel/share/ari_trajectory_controller/cmake/ari_trajectory_controllerConfig-version.cmake
+/root/ari_public_catkin_ws/devel/.private/ari_trajectory_controller/share/ari_trajectory_controller/cmake/ari_trajectory_controllerConfig.cmake /root/ari_public_catkin_ws/devel/share/ari_trajectory_controller/cmake/ari_trajectory_controllerConfig.cmake

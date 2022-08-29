@@ -1,0 +1,1 @@
+/root/ari_public_catkin_ws/devel/.private/pal_vision_msgs/share/roseus/ros/pal_vision_msgs/msg/FaceRecognitionActionResult.l

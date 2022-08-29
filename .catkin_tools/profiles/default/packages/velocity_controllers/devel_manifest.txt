@@ -1,0 +1,6 @@
+ros_controllers/velocity_controllers
+/root/ari_public_catkin_ws/devel/.private/velocity_controllers/cmake.lock /root/ari_public_catkin_ws/devel/./cmake.lock
+/root/ari_public_catkin_ws/devel/.private/velocity_controllers/lib/libvelocity_controllers.so /root/ari_public_catkin_ws/devel/lib/libvelocity_controllers.so
+/root/ari_public_catkin_ws/devel/.private/velocity_controllers/lib/pkgconfig/velocity_controllers.pc /root/ari_public_catkin_ws/devel/lib/pkgconfig/velocity_controllers.pc
+/root/ari_public_catkin_ws/devel/.private/velocity_controllers/share/velocity_controllers/cmake/velocity_controllersConfig-version.cmake /root/ari_public_catkin_ws/devel/share/velocity_controllers/cmake/velocity_controllersConfig-version.cmake
+/root/ari_public_catkin_ws/devel/.private/velocity_controllers/share/velocity_controllers/cmake/velocity_controllersConfig.cmake /root/ari_public_catkin_ws/devel/share/velocity_controllers/cmake/velocity_controllersConfig.cmake

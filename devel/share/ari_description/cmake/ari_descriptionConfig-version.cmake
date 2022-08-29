@@ -1,0 +1,1 @@
+/root/ari_public_catkin_ws/devel/.private/ari_description/share/ari_description/cmake/ari_descriptionConfig-version.cmake

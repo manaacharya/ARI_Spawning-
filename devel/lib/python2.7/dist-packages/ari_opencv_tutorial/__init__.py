@@ -1,0 +1,1 @@
+/root/ari_public_catkin_ws/devel/.private/ari_opencv_tutorial/lib/python2.7/dist-packages/ari_opencv_tutorial/__init__.py

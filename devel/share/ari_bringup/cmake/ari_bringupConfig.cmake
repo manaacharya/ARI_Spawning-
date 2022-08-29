@@ -1,0 +1,1 @@
+/root/ari_public_catkin_ws/devel/.private/ari_bringup/share/ari_bringup/cmake/ari_bringupConfig.cmake

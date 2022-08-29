@@ -1,0 +1,5 @@
+Symlinking /root/ari_public_catkin_ws/devel/lib/libcombined_robot_hw_tests.so
+Symlinking /root/ari_public_catkin_ws/devel/lib/combined_robot_hw_tests/combined_robot_hw_dummy_app
+Symlinking /root/ari_public_catkin_ws/devel/lib/pkgconfig/combined_robot_hw_tests.pc
+Symlinking /root/ari_public_catkin_ws/devel/share/combined_robot_hw_tests/cmake/combined_robot_hw_testsConfig.cmake
+Symlinking /root/ari_public_catkin_ws/devel/share/combined_robot_hw_tests/cmake/combined_robot_hw_testsConfig-version.cmake

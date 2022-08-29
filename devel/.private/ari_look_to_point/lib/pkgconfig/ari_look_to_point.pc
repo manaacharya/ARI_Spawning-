@@ -1,0 +1,8 @@
+prefix=/root/ari_public_catkin_ws/devel/.private/ari_look_to_point
+
+Name: ari_look_to_point
+Description: Description of ari_look_to_point
+Version: 2.0.2
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

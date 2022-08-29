@@ -1,0 +1,8 @@
+prefix=/root/ari_public_catkin_ws/install
+
+Name: ari_moveit_config
+Description: Description of ari_moveit_config
+Version: 0.0.6
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

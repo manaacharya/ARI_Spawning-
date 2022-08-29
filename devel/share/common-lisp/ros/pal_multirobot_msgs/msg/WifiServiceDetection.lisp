@@ -1,0 +1,1 @@
+/root/ari_public_catkin_ws/devel/.private/pal_multirobot_msgs/share/common-lisp/ros/pal_multirobot_msgs/msg/WifiServiceDetection.lisp

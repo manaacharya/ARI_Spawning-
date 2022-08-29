@@ -1,0 +1,41 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/pal_detection_msgs_generate_messages_py"
+  "/root/ari_public_catkin_ws/devel/.private/pal_detection_msgs/lib/python2.7/dist-packages/pal_detection_msgs/msg/_PersonDetection.py"
+  "/root/ari_public_catkin_ws/devel/.private/pal_detection_msgs/lib/python2.7/dist-packages/pal_detection_msgs/msg/_PersonDetections.py"
+  "/root/ari_public_catkin_ws/devel/.private/pal_detection_msgs/lib/python2.7/dist-packages/pal_detection_msgs/msg/_Obstacles.py"
+  "/root/ari_public_catkin_ws/devel/.private/pal_detection_msgs/lib/python2.7/dist-packages/pal_detection_msgs/msg/_FaceThermalDetections.py"
+  "/root/ari_public_catkin_ws/devel/.private/pal_detection_msgs/lib/python2.7/dist-packages/pal_detection_msgs/msg/_RecognizeObjectsGoal.py"
+  "/root/ari_public_catkin_ws/devel/.private/pal_detection_msgs/lib/python2.7/dist-packages/pal_detection_msgs/msg/_RecognizedObjectArray.py"
+  "/root/ari_public_catkin_ws/devel/.private/pal_detection_msgs/lib/python2.7/dist-packages/pal_detection_msgs/msg/_RecognizeObjectsAction.py"
+  "/root/ari_public_catkin_ws/devel/.private/pal_detection_msgs/lib/python2.7/dist-packages/pal_detection_msgs/msg/_Detections2d.py"
+  "/root/ari_public_catkin_ws/devel/.private/pal_detection_msgs/lib/python2.7/dist-packages/pal_detection_msgs/msg/_RecognizeObjectsActionFeedback.py"
+  "/root/ari_public_catkin_ws/devel/.private/pal_detection_msgs/lib/python2.7/dist-packages/pal_detection_msgs/msg/_RecognizedObject.py"
+  "/root/ari_public_catkin_ws/devel/.private/pal_detection_msgs/lib/python2.7/dist-packages/pal_detection_msgs/msg/_WaveDetection.py"
+  "/root/ari_public_catkin_ws/devel/.private/pal_detection_msgs/lib/python2.7/dist-packages/pal_detection_msgs/msg/_RotatedDetection2d.py"
+  "/root/ari_public_catkin_ws/devel/.private/pal_detection_msgs/lib/python2.7/dist-packages/pal_detection_msgs/msg/_RecognizeObjectsFeedback.py"
+  "/root/ari_public_catkin_ws/devel/.private/pal_detection_msgs/lib/python2.7/dist-packages/pal_detection_msgs/msg/_RecognizeObjectsActionResult.py"
+  "/root/ari_public_catkin_ws/devel/.private/pal_detection_msgs/lib/python2.7/dist-packages/pal_detection_msgs/msg/_TexturedObjectDetection.py"
+  "/root/ari_public_catkin_ws/devel/.private/pal_detection_msgs/lib/python2.7/dist-packages/pal_detection_msgs/msg/_Obstacle.py"
+  "/root/ari_public_catkin_ws/devel/.private/pal_detection_msgs/lib/python2.7/dist-packages/pal_detection_msgs/msg/_RecognizeObjectsResult.py"
+  "/root/ari_public_catkin_ws/devel/.private/pal_detection_msgs/lib/python2.7/dist-packages/pal_detection_msgs/msg/_FaceDetection.py"
+  "/root/ari_public_catkin_ws/devel/.private/pal_detection_msgs/lib/python2.7/dist-packages/pal_detection_msgs/msg/_RecognizedActions.py"
+  "/root/ari_public_catkin_ws/devel/.private/pal_detection_msgs/lib/python2.7/dist-packages/pal_detection_msgs/msg/_Gesture.py"
+  "/root/ari_public_catkin_ws/devel/.private/pal_detection_msgs/lib/python2.7/dist-packages/pal_detection_msgs/msg/_Detection2d.py"
+  "/root/ari_public_catkin_ws/devel/.private/pal_detection_msgs/lib/python2.7/dist-packages/pal_detection_msgs/msg/_RecognizeObjectsActionGoal.py"
+  "/root/ari_public_catkin_ws/devel/.private/pal_detection_msgs/lib/python2.7/dist-packages/pal_detection_msgs/msg/_LegDetections.py"
+  "/root/ari_public_catkin_ws/devel/.private/pal_detection_msgs/lib/python2.7/dist-packages/pal_detection_msgs/msg/_FaceDetections.py"
+  "/root/ari_public_catkin_ws/devel/.private/pal_detection_msgs/lib/python2.7/dist-packages/pal_detection_msgs/srv/_SelectTexturedObject.py"
+  "/root/ari_public_catkin_ws/devel/.private/pal_detection_msgs/lib/python2.7/dist-packages/pal_detection_msgs/srv/_ChangeObjectRecognizerModel.py"
+  "/root/ari_public_catkin_ws/devel/.private/pal_detection_msgs/lib/python2.7/dist-packages/pal_detection_msgs/srv/_AddTexturedObject.py"
+  "/root/ari_public_catkin_ws/devel/.private/pal_detection_msgs/lib/python2.7/dist-packages/pal_detection_msgs/srv/_StartEnrollment.py"
+  "/root/ari_public_catkin_ws/devel/.private/pal_detection_msgs/lib/python2.7/dist-packages/pal_detection_msgs/srv/_SetDatabase.py"
+  "/root/ari_public_catkin_ws/devel/.private/pal_detection_msgs/lib/python2.7/dist-packages/pal_detection_msgs/srv/_StopEnrollment.py"
+  "/root/ari_public_catkin_ws/devel/.private/pal_detection_msgs/lib/python2.7/dist-packages/pal_detection_msgs/srv/_Recognizer.py"
+  "/root/ari_public_catkin_ws/devel/.private/pal_detection_msgs/lib/python2.7/dist-packages/pal_detection_msgs/msg/__init__.py"
+  "/root/ari_public_catkin_ws/devel/.private/pal_detection_msgs/lib/python2.7/dist-packages/pal_detection_msgs/srv/__init__.py"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang )
+  include(CMakeFiles/pal_detection_msgs_generate_messages_py.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

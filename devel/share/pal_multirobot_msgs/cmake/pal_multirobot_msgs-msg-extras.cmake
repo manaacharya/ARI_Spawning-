@@ -1,0 +1,1 @@
+/root/ari_public_catkin_ws/devel/.private/pal_multirobot_msgs/share/pal_multirobot_msgs/cmake/pal_multirobot_msgs-msg-extras.cmake

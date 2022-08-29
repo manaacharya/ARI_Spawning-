@@ -1,0 +1,4 @@
+Symlinking /root/ari_public_catkin_ws/devel/lib/libbackward.so
+Symlinking /root/ari_public_catkin_ws/devel/lib/pkgconfig/backward_ros.pc
+Symlinking /root/ari_public_catkin_ws/devel/share/backward_ros/cmake/backward_rosConfig-version.cmake
+Symlinking /root/ari_public_catkin_ws/devel/share/backward_ros/cmake/backward_rosConfig.cmake

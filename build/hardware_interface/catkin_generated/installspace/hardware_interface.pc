@@ -1,0 +1,8 @@
+prefix=/root/ari_public_catkin_ws/install
+
+Name: hardware_interface
+Description: Description of hardware_interface
+Version: 0.5.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: roscpp

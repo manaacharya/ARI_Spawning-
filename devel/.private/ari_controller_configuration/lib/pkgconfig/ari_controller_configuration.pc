@@ -1,0 +1,8 @@
+prefix=/root/ari_public_catkin_ws/devel/.private/ari_controller_configuration
+
+Name: ari_controller_configuration
+Description: Description of ari_controller_configuration
+Version: 0.0.42
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

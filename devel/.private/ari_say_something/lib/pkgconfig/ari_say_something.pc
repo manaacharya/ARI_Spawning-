@@ -1,0 +1,8 @@
+prefix=/root/ari_public_catkin_ws/devel/.private/ari_say_something
+
+Name: ari_say_something
+Description: Description of ari_say_something
+Version: 2.0.2
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

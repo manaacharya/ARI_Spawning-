@@ -1,0 +1,1 @@
+/root/ari_public_catkin_ws/devel/.private/pal_gazebo_plugins/lib/pkgconfig/pal_gazebo_plugins.pc

@@ -1,0 +1,1 @@
+/root/ari_public_catkin_ws/devel/.private/ari_opencv_tutorial/share/ari_opencv_tutorial/cmake/ari_opencv_tutorial-msg-paths.cmake

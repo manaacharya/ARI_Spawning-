@@ -1,0 +1,2 @@
+set(dynamic_introspection_MESSAGE_FILES "/root/ari_public_catkin_ws/src/dynamic_introspection/msg/BoolParameter.msg;/root/ari_public_catkin_ws/src/dynamic_introspection/msg/IntrospectionMsg.msg;/root/ari_public_catkin_ws/src/dynamic_introspection/msg/DoubleParameter.msg;/root/ari_public_catkin_ws/src/dynamic_introspection/msg/IntParameter.msg;/root/ari_public_catkin_ws/src/dynamic_introspection/msg/MarkerParameter.msg")
+set(dynamic_introspection_SERVICE_FILES "")

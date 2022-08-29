@@ -1,0 +1,3 @@
+Symlinking /root/ari_public_catkin_ws/devel/lib/pkgconfig/ari_2dnav.pc
+Symlinking /root/ari_public_catkin_ws/devel/share/ari_2dnav/cmake/ari_2dnavConfig.cmake
+Symlinking /root/ari_public_catkin_ws/devel/share/ari_2dnav/cmake/ari_2dnavConfig-version.cmake

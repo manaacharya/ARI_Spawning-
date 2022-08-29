@@ -1,0 +1,4 @@
+Symlinking /root/ari_public_catkin_ws/devel/lib/libforce_torque_sensor_controller.so
+Symlinking /root/ari_public_catkin_ws/devel/lib/pkgconfig/force_torque_sensor_controller.pc
+Symlinking /root/ari_public_catkin_ws/devel/share/force_torque_sensor_controller/cmake/force_torque_sensor_controllerConfig.cmake
+Symlinking /root/ari_public_catkin_ws/devel/share/force_torque_sensor_controller/cmake/force_torque_sensor_controllerConfig-version.cmake

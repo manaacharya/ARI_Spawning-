@@ -1,0 +1,1 @@
+/root/ari_public_catkin_ws/devel/.private/realsense2_camera/share/roseus/ros/realsense2_camera/msg/IMUInfo.l

@@ -1,0 +1,1 @@
+/root/ari_public_catkin_ws/devel/.private/gazebo_msgs/share/roseus/ros/gazebo_msgs/srv/GetModelState.l

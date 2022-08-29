@@ -1,0 +1,40 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/pal_detection_msgs_generate_messages_eus"
+  "/root/ari_public_catkin_ws/devel/.private/pal_detection_msgs/share/roseus/ros/pal_detection_msgs/msg/PersonDetection.l"
+  "/root/ari_public_catkin_ws/devel/.private/pal_detection_msgs/share/roseus/ros/pal_detection_msgs/msg/PersonDetections.l"
+  "/root/ari_public_catkin_ws/devel/.private/pal_detection_msgs/share/roseus/ros/pal_detection_msgs/msg/Obstacles.l"
+  "/root/ari_public_catkin_ws/devel/.private/pal_detection_msgs/share/roseus/ros/pal_detection_msgs/msg/FaceThermalDetections.l"
+  "/root/ari_public_catkin_ws/devel/.private/pal_detection_msgs/share/roseus/ros/pal_detection_msgs/msg/RecognizeObjectsGoal.l"
+  "/root/ari_public_catkin_ws/devel/.private/pal_detection_msgs/share/roseus/ros/pal_detection_msgs/msg/RecognizedObjectArray.l"
+  "/root/ari_public_catkin_ws/devel/.private/pal_detection_msgs/share/roseus/ros/pal_detection_msgs/msg/RecognizeObjectsAction.l"
+  "/root/ari_public_catkin_ws/devel/.private/pal_detection_msgs/share/roseus/ros/pal_detection_msgs/msg/Detections2d.l"
+  "/root/ari_public_catkin_ws/devel/.private/pal_detection_msgs/share/roseus/ros/pal_detection_msgs/msg/RecognizeObjectsActionFeedback.l"
+  "/root/ari_public_catkin_ws/devel/.private/pal_detection_msgs/share/roseus/ros/pal_detection_msgs/msg/RecognizedObject.l"
+  "/root/ari_public_catkin_ws/devel/.private/pal_detection_msgs/share/roseus/ros/pal_detection_msgs/msg/WaveDetection.l"
+  "/root/ari_public_catkin_ws/devel/.private/pal_detection_msgs/share/roseus/ros/pal_detection_msgs/msg/RotatedDetection2d.l"
+  "/root/ari_public_catkin_ws/devel/.private/pal_detection_msgs/share/roseus/ros/pal_detection_msgs/msg/RecognizeObjectsFeedback.l"
+  "/root/ari_public_catkin_ws/devel/.private/pal_detection_msgs/share/roseus/ros/pal_detection_msgs/msg/RecognizeObjectsActionResult.l"
+  "/root/ari_public_catkin_ws/devel/.private/pal_detection_msgs/share/roseus/ros/pal_detection_msgs/msg/TexturedObjectDetection.l"
+  "/root/ari_public_catkin_ws/devel/.private/pal_detection_msgs/share/roseus/ros/pal_detection_msgs/msg/Obstacle.l"
+  "/root/ari_public_catkin_ws/devel/.private/pal_detection_msgs/share/roseus/ros/pal_detection_msgs/msg/RecognizeObjectsResult.l"
+  "/root/ari_public_catkin_ws/devel/.private/pal_detection_msgs/share/roseus/ros/pal_detection_msgs/msg/FaceDetection.l"
+  "/root/ari_public_catkin_ws/devel/.private/pal_detection_msgs/share/roseus/ros/pal_detection_msgs/msg/RecognizedActions.l"
+  "/root/ari_public_catkin_ws/devel/.private/pal_detection_msgs/share/roseus/ros/pal_detection_msgs/msg/Gesture.l"
+  "/root/ari_public_catkin_ws/devel/.private/pal_detection_msgs/share/roseus/ros/pal_detection_msgs/msg/Detection2d.l"
+  "/root/ari_public_catkin_ws/devel/.private/pal_detection_msgs/share/roseus/ros/pal_detection_msgs/msg/RecognizeObjectsActionGoal.l"
+  "/root/ari_public_catkin_ws/devel/.private/pal_detection_msgs/share/roseus/ros/pal_detection_msgs/msg/LegDetections.l"
+  "/root/ari_public_catkin_ws/devel/.private/pal_detection_msgs/share/roseus/ros/pal_detection_msgs/msg/FaceDetections.l"
+  "/root/ari_public_catkin_ws/devel/.private/pal_detection_msgs/share/roseus/ros/pal_detection_msgs/srv/SelectTexturedObject.l"
+  "/root/ari_public_catkin_ws/devel/.private/pal_detection_msgs/share/roseus/ros/pal_detection_msgs/srv/ChangeObjectRecognizerModel.l"
+  "/root/ari_public_catkin_ws/devel/.private/pal_detection_msgs/share/roseus/ros/pal_detection_msgs/srv/AddTexturedObject.l"
+  "/root/ari_public_catkin_ws/devel/.private/pal_detection_msgs/share/roseus/ros/pal_detection_msgs/srv/StartEnrollment.l"
+  "/root/ari_public_catkin_ws/devel/.private/pal_detection_msgs/share/roseus/ros/pal_detection_msgs/srv/SetDatabase.l"
+  "/root/ari_public_catkin_ws/devel/.private/pal_detection_msgs/share/roseus/ros/pal_detection_msgs/srv/StopEnrollment.l"
+  "/root/ari_public_catkin_ws/devel/.private/pal_detection_msgs/share/roseus/ros/pal_detection_msgs/srv/Recognizer.l"
+  "/root/ari_public_catkin_ws/devel/.private/pal_detection_msgs/share/roseus/ros/pal_detection_msgs/manifest.l"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang )
+  include(CMakeFiles/pal_detection_msgs_generate_messages_eus.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

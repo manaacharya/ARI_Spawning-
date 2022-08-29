@@ -1,0 +1,5 @@
+Symlinking /root/ari_public_catkin_ws/devel/lib/libbarcode_reader_nodelet.so
+Symlinking /root/ari_public_catkin_ws/devel/lib/zbar_ros/barcode_reader_node
+Symlinking /root/ari_public_catkin_ws/devel/lib/pkgconfig/zbar_ros.pc
+Symlinking /root/ari_public_catkin_ws/devel/share/zbar_ros/cmake/zbar_rosConfig.cmake
+Symlinking /root/ari_public_catkin_ws/devel/share/zbar_ros/cmake/zbar_rosConfig-version.cmake

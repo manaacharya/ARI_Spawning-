@@ -1,0 +1,3 @@
+Symlinking /root/ari_public_catkin_ws/devel/lib/pkgconfig/ari_controller_configuration.pc
+Symlinking /root/ari_public_catkin_ws/devel/share/ari_controller_configuration/cmake/ari_controller_configurationConfig-version.cmake
+Symlinking /root/ari_public_catkin_ws/devel/share/ari_controller_configuration/cmake/ari_controller_configurationConfig.cmake

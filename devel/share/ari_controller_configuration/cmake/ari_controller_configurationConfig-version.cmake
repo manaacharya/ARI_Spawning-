@@ -1,0 +1,1 @@
+/root/ari_public_catkin_ws/devel/.private/ari_controller_configuration/share/ari_controller_configuration/cmake/ari_controller_configurationConfig-version.cmake

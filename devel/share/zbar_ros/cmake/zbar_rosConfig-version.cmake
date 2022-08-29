@@ -1,0 +1,1 @@
+/root/ari_public_catkin_ws/devel/.private/zbar_ros/share/zbar_ros/cmake/zbar_rosConfig-version.cmake

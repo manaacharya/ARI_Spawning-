@@ -1,0 +1,11 @@
+Symlinking /root/ari_public_catkin_ws/devel/include/diff_drive_controller/DiffDriveControllerConfig.h
+Symlinking /root/ari_public_catkin_ws/devel/lib/libdiff_drive_controller.so
+Symlinking /root/ari_public_catkin_ws/devel/lib/pkgconfig/diff_drive_controller.pc
+Symlinking /root/ari_public_catkin_ws/devel/lib/python2.7/dist-packages/diff_drive_controller/__init__.py
+Symlinking /root/ari_public_catkin_ws/devel/lib/python2.7/dist-packages/diff_drive_controller/cfg/__init__.py
+Symlinking /root/ari_public_catkin_ws/devel/lib/python2.7/dist-packages/diff_drive_controller/cfg/DiffDriveControllerConfig.py
+Symlinking /root/ari_public_catkin_ws/devel/share/diff_drive_controller/cmake/diff_drive_controllerConfig.cmake
+Symlinking /root/ari_public_catkin_ws/devel/share/diff_drive_controller/cmake/diff_drive_controllerConfig-version.cmake
+Symlinking /root/ari_public_catkin_ws/devel/share/diff_drive_controller/docs/DiffDriveControllerConfig.wikidoc
+Symlinking /root/ari_public_catkin_ws/devel/share/diff_drive_controller/docs/DiffDriveControllerConfig.dox
+Symlinking /root/ari_public_catkin_ws/devel/share/diff_drive_controller/docs/DiffDriveControllerConfig-usage.dox

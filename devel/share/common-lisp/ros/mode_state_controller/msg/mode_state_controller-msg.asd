@@ -1,0 +1,1 @@
+/root/ari_public_catkin_ws/devel/.private/mode_state_controller/share/common-lisp/ros/mode_state_controller/msg/mode_state_controller-msg.asd

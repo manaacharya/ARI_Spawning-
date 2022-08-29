@@ -1,0 +1,3 @@
+Symlinking /root/ari_public_catkin_ws/devel/lib/pkgconfig/multi_robot.pc
+Symlinking /root/ari_public_catkin_ws/devel/share/multi_robot/cmake/multi_robotConfig.cmake
+Symlinking /root/ari_public_catkin_ws/devel/share/multi_robot/cmake/multi_robotConfig-version.cmake

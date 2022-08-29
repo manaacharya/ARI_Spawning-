@@ -1,0 +1,3 @@
+Symlinking /root/ari_public_catkin_ws/devel/lib/pkgconfig/ari_play_with_sensors.pc
+Symlinking /root/ari_public_catkin_ws/devel/share/ari_play_with_sensors/cmake/ari_play_with_sensorsConfig-version.cmake
+Symlinking /root/ari_public_catkin_ws/devel/share/ari_play_with_sensors/cmake/ari_play_with_sensorsConfig.cmake

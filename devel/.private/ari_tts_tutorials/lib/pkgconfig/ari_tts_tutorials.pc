@@ -1,0 +1,8 @@
+prefix=/root/ari_public_catkin_ws/devel/.private/ari_tts_tutorials
+
+Name: ari_tts_tutorials
+Description: Description of ari_tts_tutorials
+Version: 2.0.2
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

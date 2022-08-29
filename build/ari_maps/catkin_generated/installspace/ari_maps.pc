@@ -1,0 +1,8 @@
+prefix=/root/ari_public_catkin_ws/install
+
+Name: ari_maps
+Description: Description of ari_maps
+Version: 0.0.33
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

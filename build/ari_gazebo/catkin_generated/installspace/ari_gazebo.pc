@@ -1,0 +1,8 @@
+prefix=/root/ari_public_catkin_ws/install
+
+Name: ari_gazebo
+Description: Description of ari_gazebo
+Version: 0.0.14
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

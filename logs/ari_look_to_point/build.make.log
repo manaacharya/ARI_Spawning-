@@ -1,0 +1,4 @@
+[35m[1mScanning dependencies of target ari_look_to_point[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/ari_look_to_point.dir/src/ari_look_to_point.cpp.o[0m
+[100%] [32m[1mLinking CXX executable /root/ari_public_catkin_ws/devel/.private/ari_look_to_point/lib/ari_look_to_point/ari_look_to_point[0m
+[100%] Built target ari_look_to_point

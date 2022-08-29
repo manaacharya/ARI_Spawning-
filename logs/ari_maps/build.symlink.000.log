@@ -1,0 +1,3 @@
+Symlinking /root/ari_public_catkin_ws/devel/lib/pkgconfig/ari_maps.pc
+Symlinking /root/ari_public_catkin_ws/devel/share/ari_maps/cmake/ari_mapsConfig.cmake
+Symlinking /root/ari_public_catkin_ws/devel/share/ari_maps/cmake/ari_mapsConfig-version.cmake

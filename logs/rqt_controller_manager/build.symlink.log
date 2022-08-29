@@ -1,0 +1,4 @@
+Symlinking /root/ari_public_catkin_ws/devel/lib/pkgconfig/rqt_controller_manager.pc
+Symlinking /root/ari_public_catkin_ws/devel/lib/python2.7/dist-packages/rqt_controller_manager/__init__.py
+Symlinking /root/ari_public_catkin_ws/devel/share/rqt_controller_manager/cmake/rqt_controller_managerConfig.cmake
+Symlinking /root/ari_public_catkin_ws/devel/share/rqt_controller_manager/cmake/rqt_controller_managerConfig-version.cmake

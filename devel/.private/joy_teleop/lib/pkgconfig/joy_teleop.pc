@@ -1,0 +1,8 @@
+prefix=/root/ari_public_catkin_ws/devel/.private/joy_teleop
+
+Name: joy_teleop
+Description: Description of joy_teleop
+Version: 0.3.3
+Cflags: -I/root/ari_public_catkin_ws/src/teleop_tools/joy_teleop/include
+Libs: -L${prefix}/lib 
+Requires: actionlib teleop_tools_msgs

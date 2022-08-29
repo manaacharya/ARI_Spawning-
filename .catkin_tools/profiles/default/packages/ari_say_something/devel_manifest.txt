@@ -1,0 +1,5 @@
+ari_tutorials/ari_say_something
+/root/ari_public_catkin_ws/devel/.private/ari_say_something/cmake.lock /root/ari_public_catkin_ws/devel/./cmake.lock
+/root/ari_public_catkin_ws/devel/.private/ari_say_something/lib/pkgconfig/ari_say_something.pc /root/ari_public_catkin_ws/devel/lib/pkgconfig/ari_say_something.pc
+/root/ari_public_catkin_ws/devel/.private/ari_say_something/share/ari_say_something/cmake/ari_say_somethingConfig.cmake /root/ari_public_catkin_ws/devel/share/ari_say_something/cmake/ari_say_somethingConfig.cmake
+/root/ari_public_catkin_ws/devel/.private/ari_say_something/share/ari_say_something/cmake/ari_say_somethingConfig-version.cmake /root/ari_public_catkin_ws/devel/share/ari_say_something/cmake/ari_say_somethingConfig-version.cmake

@@ -1,0 +1,1 @@
+set(ORDERED_PATHS "/root/ari_public_catkin_ws/devel/.private/controller_manager/lib;/opt/ros/melodic/lib")

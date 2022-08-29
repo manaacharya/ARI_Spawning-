@@ -1,0 +1,1 @@
+/root/ari_public_catkin_ws/devel/.private/mode_state_controller/share/roseus/ros/mode_state_controller/manifest.l

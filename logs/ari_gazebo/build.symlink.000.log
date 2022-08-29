@@ -1,0 +1,3 @@
+Symlinking /root/ari_public_catkin_ws/devel/lib/pkgconfig/ari_gazebo.pc
+Symlinking /root/ari_public_catkin_ws/devel/share/ari_gazebo/cmake/ari_gazeboConfig-version.cmake
+Symlinking /root/ari_public_catkin_ws/devel/share/ari_gazebo/cmake/ari_gazeboConfig.cmake

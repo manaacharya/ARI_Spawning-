@@ -1,0 +1,8 @@
+prefix=/root/ari_public_catkin_ws/install
+
+Name: ari_description
+Description: Description of ari_description
+Version: 0.0.42
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

@@ -1,0 +1,4 @@
+Symlinking /root/ari_public_catkin_ws/devel/lib/librealsense_gazebo_plugin.so
+Symlinking /root/ari_public_catkin_ws/devel/lib/pkgconfig/realsense_gazebo_plugin.pc
+Symlinking /root/ari_public_catkin_ws/devel/share/realsense_gazebo_plugin/cmake/realsense_gazebo_pluginConfig-version.cmake
+Symlinking /root/ari_public_catkin_ws/devel/share/realsense_gazebo_plugin/cmake/realsense_gazebo_pluginConfig.cmake

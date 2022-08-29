@@ -1,0 +1,1 @@
+/root/ari_public_catkin_ws/devel/.private/pal_video_recording_msgs/lib/pkgconfig/pal_video_recording_msgs.pc

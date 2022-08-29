@@ -1,0 +1,1 @@
+/root/ari_public_catkin_ws/devel/.private/ari_say_something/share/ari_say_something/cmake/ari_say_somethingConfig-version.cmake

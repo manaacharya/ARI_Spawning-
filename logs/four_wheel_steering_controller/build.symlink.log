@@ -1,0 +1,4 @@
+Symlinking /root/ari_public_catkin_ws/devel/lib/libfour_wheel_steering_controller.so
+Symlinking /root/ari_public_catkin_ws/devel/lib/pkgconfig/four_wheel_steering_controller.pc
+Symlinking /root/ari_public_catkin_ws/devel/share/four_wheel_steering_controller/cmake/four_wheel_steering_controllerConfig-version.cmake
+Symlinking /root/ari_public_catkin_ws/devel/share/four_wheel_steering_controller/cmake/four_wheel_steering_controllerConfig.cmake

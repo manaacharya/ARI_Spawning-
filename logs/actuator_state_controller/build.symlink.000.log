@@ -1,0 +1,4 @@
+Symlinking /root/ari_public_catkin_ws/devel/lib/libactuator_state_controller.so
+Symlinking /root/ari_public_catkin_ws/devel/lib/pkgconfig/actuator_state_controller.pc
+Symlinking /root/ari_public_catkin_ws/devel/share/actuator_state_controller/cmake/actuator_state_controllerConfig.cmake
+Symlinking /root/ari_public_catkin_ws/devel/share/actuator_state_controller/cmake/actuator_state_controllerConfig-version.cmake

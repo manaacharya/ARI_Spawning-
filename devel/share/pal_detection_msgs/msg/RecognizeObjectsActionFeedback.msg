@@ -1,0 +1,1 @@
+/root/ari_public_catkin_ws/devel/.private/pal_detection_msgs/share/pal_detection_msgs/msg/RecognizeObjectsActionFeedback.msg

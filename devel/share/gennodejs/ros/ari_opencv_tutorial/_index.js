@@ -1,0 +1,1 @@
+/root/ari_public_catkin_ws/devel/.private/ari_opencv_tutorial/share/gennodejs/ros/ari_opencv_tutorial/_index.js

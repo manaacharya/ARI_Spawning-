@@ -1,0 +1,3 @@
+Symlinking /root/ari_public_catkin_ws/devel/lib/pkgconfig/hardware_interface.pc
+Symlinking /root/ari_public_catkin_ws/devel/share/hardware_interface/cmake/hardware_interfaceConfig-version.cmake
+Symlinking /root/ari_public_catkin_ws/devel/share/hardware_interface/cmake/hardware_interfaceConfig.cmake

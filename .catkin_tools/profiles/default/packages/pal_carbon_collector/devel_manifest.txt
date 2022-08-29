@@ -1,0 +1,6 @@
+pal_statistics/pal_carbon_collector
+/root/ari_public_catkin_ws/devel/.private/pal_carbon_collector/cmake.lock /root/ari_public_catkin_ws/devel/./cmake.lock
+/root/ari_public_catkin_ws/devel/.private/pal_carbon_collector/lib/pkgconfig/pal_carbon_collector.pc /root/ari_public_catkin_ws/devel/lib/pkgconfig/pal_carbon_collector.pc
+/root/ari_public_catkin_ws/devel/.private/pal_carbon_collector/lib/python2.7/dist-packages/pal_carbon_collector/__init__.py /root/ari_public_catkin_ws/devel/lib/python2.7/dist-packages/pal_carbon_collector/__init__.py
+/root/ari_public_catkin_ws/devel/.private/pal_carbon_collector/share/pal_carbon_collector/cmake/pal_carbon_collectorConfig-version.cmake /root/ari_public_catkin_ws/devel/share/pal_carbon_collector/cmake/pal_carbon_collectorConfig-version.cmake
+/root/ari_public_catkin_ws/devel/.private/pal_carbon_collector/share/pal_carbon_collector/cmake/pal_carbon_collectorConfig.cmake /root/ari_public_catkin_ws/devel/share/pal_carbon_collector/cmake/pal_carbon_collectorConfig.cmake

@@ -1,0 +1,1 @@
+/root/ari_public_catkin_ws/devel/.private/joint_trajectory_controller/lib/pkgconfig/joint_trajectory_controller.pc

@@ -1,0 +1,21 @@
+ari_tutorials/ari_opencv_tutorial
+/root/ari_public_catkin_ws/devel/.private/ari_opencv_tutorial/cmake.lock /root/ari_public_catkin_ws/devel/./cmake.lock
+/root/ari_public_catkin_ws/devel/.private/ari_opencv_tutorial/include/ari_opencv_tutorial/valueMatrix.h /root/ari_public_catkin_ws/devel/include/ari_opencv_tutorial/valueMatrix.h
+/root/ari_public_catkin_ws/devel/.private/ari_opencv_tutorial/lib/ari_opencv_tutorial/corner_detection /root/ari_public_catkin_ws/devel/lib/ari_opencv_tutorial/corner_detection
+/root/ari_public_catkin_ws/devel/.private/ari_opencv_tutorial/lib/pkgconfig/ari_opencv_tutorial.pc /root/ari_public_catkin_ws/devel/lib/pkgconfig/ari_opencv_tutorial.pc
+/root/ari_public_catkin_ws/devel/.private/ari_opencv_tutorial/lib/python2.7/dist-packages/ari_opencv_tutorial/__init__.py /root/ari_public_catkin_ws/devel/lib/python2.7/dist-packages/ari_opencv_tutorial/__init__.py
+/root/ari_public_catkin_ws/devel/.private/ari_opencv_tutorial/lib/python2.7/dist-packages/ari_opencv_tutorial/msg/__init__.py /root/ari_public_catkin_ws/devel/lib/python2.7/dist-packages/ari_opencv_tutorial/msg/__init__.py
+/root/ari_public_catkin_ws/devel/.private/ari_opencv_tutorial/lib/python2.7/dist-packages/ari_opencv_tutorial/msg/_valueMatrix.py /root/ari_public_catkin_ws/devel/lib/python2.7/dist-packages/ari_opencv_tutorial/msg/_valueMatrix.py
+/root/ari_public_catkin_ws/devel/.private/ari_opencv_tutorial/share/gennodejs/ros/ari_opencv_tutorial/_index.js /root/ari_public_catkin_ws/devel/share/gennodejs/ros/ari_opencv_tutorial/_index.js
+/root/ari_public_catkin_ws/devel/.private/ari_opencv_tutorial/share/gennodejs/ros/ari_opencv_tutorial/msg/_index.js /root/ari_public_catkin_ws/devel/share/gennodejs/ros/ari_opencv_tutorial/msg/_index.js
+/root/ari_public_catkin_ws/devel/.private/ari_opencv_tutorial/share/gennodejs/ros/ari_opencv_tutorial/msg/valueMatrix.js /root/ari_public_catkin_ws/devel/share/gennodejs/ros/ari_opencv_tutorial/msg/valueMatrix.js
+/root/ari_public_catkin_ws/devel/.private/ari_opencv_tutorial/share/roseus/ros/ari_opencv_tutorial/manifest.l /root/ari_public_catkin_ws/devel/share/roseus/ros/ari_opencv_tutorial/manifest.l
+/root/ari_public_catkin_ws/devel/.private/ari_opencv_tutorial/share/roseus/ros/ari_opencv_tutorial/msg/valueMatrix.l /root/ari_public_catkin_ws/devel/share/roseus/ros/ari_opencv_tutorial/msg/valueMatrix.l
+/root/ari_public_catkin_ws/devel/.private/ari_opencv_tutorial/share/common-lisp/ros/ari_opencv_tutorial/msg/_package.lisp /root/ari_public_catkin_ws/devel/share/common-lisp/ros/ari_opencv_tutorial/msg/_package.lisp
+/root/ari_public_catkin_ws/devel/.private/ari_opencv_tutorial/share/common-lisp/ros/ari_opencv_tutorial/msg/valueMatrix.lisp /root/ari_public_catkin_ws/devel/share/common-lisp/ros/ari_opencv_tutorial/msg/valueMatrix.lisp
+/root/ari_public_catkin_ws/devel/.private/ari_opencv_tutorial/share/common-lisp/ros/ari_opencv_tutorial/msg/ari_opencv_tutorial-msg.asd /root/ari_public_catkin_ws/devel/share/common-lisp/ros/ari_opencv_tutorial/msg/ari_opencv_tutorial-msg.asd
+/root/ari_public_catkin_ws/devel/.private/ari_opencv_tutorial/share/common-lisp/ros/ari_opencv_tutorial/msg/_package_valueMatrix.lisp /root/ari_public_catkin_ws/devel/share/common-lisp/ros/ari_opencv_tutorial/msg/_package_valueMatrix.lisp
+/root/ari_public_catkin_ws/devel/.private/ari_opencv_tutorial/share/ari_opencv_tutorial/cmake/ari_opencv_tutorial-msg-paths.cmake /root/ari_public_catkin_ws/devel/share/ari_opencv_tutorial/cmake/ari_opencv_tutorial-msg-paths.cmake
+/root/ari_public_catkin_ws/devel/.private/ari_opencv_tutorial/share/ari_opencv_tutorial/cmake/ari_opencv_tutorialConfig.cmake /root/ari_public_catkin_ws/devel/share/ari_opencv_tutorial/cmake/ari_opencv_tutorialConfig.cmake
+/root/ari_public_catkin_ws/devel/.private/ari_opencv_tutorial/share/ari_opencv_tutorial/cmake/ari_opencv_tutorial-msg-extras.cmake /root/ari_public_catkin_ws/devel/share/ari_opencv_tutorial/cmake/ari_opencv_tutorial-msg-extras.cmake
+/root/ari_public_catkin_ws/devel/.private/ari_opencv_tutorial/share/ari_opencv_tutorial/cmake/ari_opencv_tutorialConfig-version.cmake /root/ari_public_catkin_ws/devel/share/ari_opencv_tutorial/cmake/ari_opencv_tutorialConfig-version.cmake

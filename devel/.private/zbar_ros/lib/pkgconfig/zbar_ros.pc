@@ -1,0 +1,8 @@
+prefix=/root/ari_public_catkin_ws/devel/.private/zbar_ros
+
+Name: zbar_ros
+Description: Description of zbar_ros
+Version: 0.1.0
+Cflags: -I/root/ari_public_catkin_ws/src/zbar_ros/include
+Libs: -L${prefix}/lib -lbarcode_reader_nodelet
+Requires: nodelet cv_bridge roscpp

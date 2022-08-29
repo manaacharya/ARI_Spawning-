@@ -1,0 +1,4 @@
+Symlinking /root/ari_public_catkin_ws/devel/lib/pkgconfig/pal_navigation_sm.pc
+Symlinking /root/ari_public_catkin_ws/devel/lib/python2.7/dist-packages/pal_navigation_sm/__init__.py
+Symlinking /root/ari_public_catkin_ws/devel/share/pal_navigation_sm/cmake/pal_navigation_smConfig-version.cmake
+Symlinking /root/ari_public_catkin_ws/devel/share/pal_navigation_sm/cmake/pal_navigation_smConfig.cmake

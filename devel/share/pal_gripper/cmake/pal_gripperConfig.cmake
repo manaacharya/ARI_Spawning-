@@ -1,0 +1,1 @@
+/root/ari_public_catkin_ws/devel/.private/pal_gripper/share/pal_gripper/cmake/pal_gripperConfig.cmake

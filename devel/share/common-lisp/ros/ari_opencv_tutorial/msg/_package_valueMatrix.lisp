@@ -1,0 +1,1 @@
+/root/ari_public_catkin_ws/devel/.private/ari_opencv_tutorial/share/common-lisp/ros/ari_opencv_tutorial/msg/_package_valueMatrix.lisp

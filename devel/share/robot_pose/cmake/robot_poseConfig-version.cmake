@@ -1,0 +1,1 @@
+/root/ari_public_catkin_ws/devel/.private/robot_pose/share/robot_pose/cmake/robot_poseConfig-version.cmake

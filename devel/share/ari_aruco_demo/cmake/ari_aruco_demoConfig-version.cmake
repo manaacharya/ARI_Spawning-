@@ -1,0 +1,1 @@
+/root/ari_public_catkin_ws/devel/.private/ari_aruco_demo/share/ari_aruco_demo/cmake/ari_aruco_demoConfig-version.cmake

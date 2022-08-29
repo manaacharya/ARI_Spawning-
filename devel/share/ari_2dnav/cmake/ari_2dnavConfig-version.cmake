@@ -1,0 +1,1 @@
+/root/ari_public_catkin_ws/devel/.private/ari_2dnav/share/ari_2dnav/cmake/ari_2dnavConfig-version.cmake

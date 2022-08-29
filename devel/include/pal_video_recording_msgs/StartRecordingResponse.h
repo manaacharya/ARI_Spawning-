@@ -1,0 +1,1 @@
+/root/ari_public_catkin_ws/devel/.private/pal_video_recording_msgs/include/pal_video_recording_msgs/StartRecordingResponse.h

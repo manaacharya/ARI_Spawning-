@@ -1,0 +1,3 @@
+Symlinking /root/ari_public_catkin_ws/devel/lib/pkgconfig/ari_tts_tutorials.pc
+Symlinking /root/ari_public_catkin_ws/devel/share/ari_tts_tutorials/cmake/ari_tts_tutorialsConfig-version.cmake
+Symlinking /root/ari_public_catkin_ws/devel/share/ari_tts_tutorials/cmake/ari_tts_tutorialsConfig.cmake
